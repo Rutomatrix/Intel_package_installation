@@ -8,8 +8,8 @@ MARKER="/home/rpi/.first_boot_done"
 LOG="/home/rpi/first_boot.log"
 BASE_DIR="/home/rpi"
  
-REPO_NAME="Rutomatrix-Intel-Features"
-REPO_URL="https://github.com/Dharshana102/Rutomatrix-Intel-Features.git"
+REPO_NAME="Intel_package_installation"
+REPO_URL="https://github.com/Rutomatrix/Intel_package_installation.git"
  
 STREAMING_DIR="$BASE_DIR/Streaming_HID"
 POSTCODE_DIR="$BASE_DIR/Postcode"
